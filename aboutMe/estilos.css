@@ -1,0 +1,78 @@
+/* Estilos para el fondo */
+body {
+    background:url('https://mobimg.b-cdn.net/v3/fetch/cd/cd156d9acf1b64339946ad7e7c29f6db.jpeg');
+    background-size: cover;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 18px
+  }
+  
+  /* Estilos para el contenido centrado */
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background:url('https://mobimg.b-cdn.net/v3/fetch/cd/cd156d9acf1b64339946ad7e7c29f6db.jpeg');
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  p{
+    font-size: 20px;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    background-color: #b1e2e0;
+    color: rgb(51, 37, 37);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para la barra de navegación */
+  nav {
+    display: flex;
+    justify-content: center;
+    background-color: #6d8b64;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /* Estilos para los enlaces de contacto */
+  #fb, #pp, #ca {
+    text-align: center;
+    margin-top: 20px;
+  }
+  footer{
+   
+    margin: 0 auto;
+    padding: 10px;
+    background:url('https://mobimg.b-cdn.net/v3/fetch/cd/cd156d9acf1b64339946ad7e7c29f6db.jpeg');
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  #fb a, #pp a, #ca a {
+    display: block;
+    padding: 10px;
+    background-color: #312b2b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  h3{
+    text-align: center;
+  }
+  img {
+    border-radius: 30%; /* Hace que las imágenes sean ovaladas */
+    display: block;
+    margin: 0 auto;
+  }
+  
